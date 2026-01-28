@@ -1,2 +1,2 @@
-# QR-Caf-202
+# QR Café 202
 Barra de café profesional para momentos especiales
